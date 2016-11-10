@@ -1,0 +1,64 @@
+.scGridPage { background-color: #111111; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333333; font-family: Arial, sans-serif; margin: 20px 0 20px 0; font-size: 12px }
+.scGridBorder { background-color: #333333; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #666666; border-style: solid; border-width: 1px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px }
+.scGridPageLink { color: #333333; text-decoration: underline }
+.scGridToolbarNav { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #cccccc; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; text-decoration: none; padding: 2px 4px 2px 4px }
+.scGridToolbarNavOpen { background-color: #404040; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #cccccc; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; font-weight: bold; text-decoration: none; border-color: #555555; border-style: solid; border-width: 1px; padding: 2px 4px 2px 4px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px }
+.scGridToolbar { background-color: #333333; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none; border-color: #666666; border-style: solid; border-width: 0; padding: 5px 10px 5px 10px }
+.scGridToolbarPadding { padding: 5px 10px 5px 10px }
+.css_toolbar_obj { background-color: #444; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #282828; border-style: solid; border-width: 1px; color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; padding: 2px 2px; text-decoration: none }
+.css_toolbar_objWm { color: #D4CACA }
+.scGridHeader { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #666666; border-style: solid; border-width: 0 0 1px 0 }
+.scGridHeaderFont { color: #cccccc; font-family: Helvetica, Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scGridFooter { background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scGridFooterFont { color: #cccccc; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scGridObjectOdd { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #CCCCCC; border-style: solid; border-width: 1px; color: #333333; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scGridBlockBg { background-color: #252525; background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 0; border-style: solid; border-top-color: #252525; border-bottom-color: #252525; border-left-color: #252525 }
+.scGridBlockLineBg { background-color: #252525; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #252525; border-width: 0; border-style: solid }
+.scGridBlockSpaceBg { background-color: #252525; background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 0; border-style: solid; border-left-color: #252525; border-right-color: #252525 }
+.scGridBlock { background-color: #252525; background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 0; border-style: solid; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 2px 4px; text-decoration: none }
+.scGridBlockFont { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scGridBlockLink { color: #FFFFFF; text-decoration: none }
+.scGridBlockAlign { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scGridTotal { background-color: #F9EDBB; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: none; border-width: 0 }
+.scGridTotalFont { color: #000; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 3px; text-decoration: none }
+.scGridSubtotal { background-color: #404040; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 0 }
+.scGridSubtotalFont { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 2px 4px; text-decoration: none }
+.scGridFieldEven { background-color: #111111; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scGridFieldEvenFont { color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; padding: 4px 6px; text-decoration: none; border-color: #222222; border-style: solid; border-width: 1px }
+.scGridFieldEvenVert { background-color: #111111; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #222222; border-style: solid; border-width: 1px; color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; padding: 4px 6px; text-decoration: none }
+.scGridFieldEvenLink { color: #FFFFFF; text-decoration: underline }
+.scGridFieldOdd { background-color: #1E1E1E; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scGridFieldOddFont { color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; padding: 4px 6px; text-decoration: none; border-color: #222222; border-style: solid; border-width: 1px }
+.scGridFieldOddVert { background-color: #1E1E1E; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #222222; border-style: solid; border-width: 1px; color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; padding: 4px 6px; text-decoration: none }
+.scGridFieldOddLink { color: #FFFFFF; text-decoration: underline }
+.scGridFieldClick { background-color: #545353; border-color: #222222; border-style: solid; border-width: 1px }
+.scGridFieldOver { background-color: #333232 }
+.scGridLabel { background-image: url(../../img/scriptcase__NM__v7LabelBlack.png); opacity: 1; filter: alpha(opacity=100) }
+.scGridLabelVert { background-image: url(../../img/scriptcase__NM__v7LabelBlack.png); opacity: 1; filter: alpha(opacity=100); border-color: #222222; border-style: solid; border-width: 1px; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 4px 6px; text-decoration: none }
+.scGridLabelFont { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 4px 6px; text-decoration: none; border-color: #222222; border-style: solid; border-width: 1px }
+.scGridLabelLink { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scGridTabela { background-color: #222222; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #333333; border-style: solid; border-width: 1px }
+.TB_overlayBG { background-color: #6e6e6e }
+#TB_window { border-color: #222222; border-style: solid; border-width: 1px }
+.scBtnPassField { margin: 5px 2px }
+.scGridRefinedSearchMoldura { background-color: #222; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #222; border-style: solid; border-width: 1px; border-collapse: collapse; padding: 0; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0 }
+.scGridRefinedSearchMolduraResult { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D0D0D0; border-width: 0; border-collapse: collapse; padding: 0 }
+.scGridRefinedSearchToolbar { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #34495E; font-family: Arial, sans-serif; font-size: 13px; text-decoration: none; padding: 10px }
+.scGridRefinedSearchLabel { background-image: url(../../img/scriptcase__NM__v7LabelBlack.png); opacity: 1; filter: alpha(opacity=100); border-color: #333; border-style: solid; border-width: 0 0 1px 0; color: #fff; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 4px 6px; text-decoration: none }
+.scGridRefinedSearchCampo { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #F4F4F4; border-style: solid; border-width: 0; padding: 5px 15px }
+.scGridRefinedSearchCampoFont { color: #FFF; font-family: Arial, sans-serif; font-size: 12px; text-decoration: underline }
+.scGridRefinedSearchCampo:hover { background-color: #333; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #C8C8C8; border-style: solid; border-width: 0; padding: 5px 15px }
+.scGridRefinedSearchCampoFont:hover { font-family: Arial, sans-serif; font-size: 12px; text-decoration: underline }
+.scGridRefinedSearchCampo:active { background-color: #333; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #C8C8C8; border-style: solid; border-width: 0; padding: 5px 15px }
+.scGridRefinedSearchCampoFont:active { font-family: Arial, sans-serif; font-size: 12px; text-decoration: underline }
+.scGridRefinedSearchVejaMais { background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 10px }
+.scGridRefinedSearchVejaMaisFont { color: #F9FBB2; font-family: Arial, sans-serif; font-size: 13px; text-decoration: none }
+.ui-slider { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; margin: 10px auto }
+.ui-slider-range { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse }
+.ui-state-default { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse }
+.ui-state-hover { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse }
+.ui-state-active { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse }
+.scGridRefinedSearchRangeValues { background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 4px; color: #FFF; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scGridRefinedSearchQuantidade { background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: solid; border-width: 0; padding: 0 2px; color: #FFF; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scGridRefinedSearchQuantidadeQTL { text-align: right }
+.scAjaxDiv { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 20px; text-decoration: none; border-collapse: collapse; border-style: none }

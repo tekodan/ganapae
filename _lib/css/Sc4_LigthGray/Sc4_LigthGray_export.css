@@ -1,0 +1,8 @@
+.scExportPage { background-color: #FFFFFF; background-image: url(../../img/scriptcase__NM__bgmiolo.gif); opacity: 1; filter: alpha(opacity=100) }
+.scExportTable { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-style: solid; border-width: 0; height: 100px; width: 400px }
+.scExportTitle { background-color: #666666; background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: solid; border-width: 0; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; padding: 4px; text-decoration: none }
+.scExportLine { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 4px }
+.scExportLineFont { color: #000; font-family: Arial, sans-serif; font-size: 12px; font-style: normal; text-decoration: none }
+.scExportBar { border-collapse: collapse; height: 20px }
+.scExportBarRest { background-color: #dfdfdf; background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: inset; border-width: 1px; padding: 0 }
+.scExportBarDone { background-color: #666666; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #797979; border-style: outset; border-width: 1px; padding: 0 }

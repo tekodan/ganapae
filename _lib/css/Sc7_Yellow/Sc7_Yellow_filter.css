@@ -1,0 +1,46 @@
+.scFilterPage { background-color: #F0D878; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; margin: 20px 0 20px 0; text-decoration: none }
+.scFilterBorder { background-color: #ffffff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: solid; border-width: 0; padding: 0; -moz-box-shadow: #000; box-shadow: 0px 25px 25px -21px; -webkit-box-shadow: #000; box-shadow: 0px 25px 25px -21px; box-shadow: #000; box-shadow: 0px 25px 25px -21px }
+.scFilterTable { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #fff; border-width: 0 }
+.scFilterTableTd { padding: 0 }
+.scFilterToolbar { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: none; border-width: 0; padding: 5px 10px 5px 10px; color: #000000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; text-decoration: none }
+.scFilterToolbarPadding { padding: 5px 10px 5px 10px }
+.scFilterToolbar_obj { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #999 #CCCCCC #CCCCCC; border-style: solid; border-width: 1px; color: #333333; font-family: Verdana, Geneva, sans-serif; font-size: 12px; padding: 2px 4px; text-decoration: none }
+.scFilterHeader { background-color: #EDB817; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #fff; border-width: 0 }
+.scFilterHeaderFont { color: #FFCC00; font-family: Verdana, Geneva, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFilterFooter { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scFilterFooterFont { color: #333; font-family: Verdana, Geneva, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFilterBlock { background-color: #f5d678; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #999999; border-style: solid; border-width: 0; color: #000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; font-weight: bold; padding: 1px 1px 1px 6px; text-decoration: none; vertical-align: middle }
+.scFilterBlockBack { background-color: #f5d678; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #999999; border-style: solid; border-width: 0; padding: 1px 1px 1px 6px }
+.scFilterBlockFont { color: #000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; vertical-align: middle }
+.scFilterBlockAlign { color: #000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFilterLabelOdd { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; font-weight: bold; padding: 4px 4px 4px 10px; text-decoration: none; vertical-align: top }
+.scFilterLabelEven { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; font-weight: bold; padding: 4px 4px 4px 10px; text-decoration: none; vertical-align: top }
+.scFilterFieldOdd { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 0; color: #000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; padding: 4px 4px 4px 10px; text-decoration: none; vertical-align: top }
+.scFilterDataFontOdd { color: #000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; text-decoration: none }
+.scFilterFieldFontOdd { color: #000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; text-decoration: none }
+.scFilterFieldEven { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 0; color: #000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; padding: 4px 4px 4px 10px; text-decoration: none; vertical-align: top }
+.scFilterFieldFontEven { color: #000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; text-decoration: none }
+.scFilterObjectOdd { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #999 #CCCCCC #CCCCCC; border-style: solid; border-width: 1px; color: #333333; font-family: Verdana, Geneva, sans-serif; font-size: 12px; text-decoration: none; vertical-align: top }
+.scFilterObjectEven { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #999 #CCCCCC #CCCCCC; border-style: solid; border-width: 1px; color: #333333; font-family: Verdana, Geneva, sans-serif; font-size: 12px; text-decoration: none; vertical-align: top }
+.scFilterACTable { border-collapse: collapse; border-color: #AB8E1D #E8C434 #E8C434 #AB8E1D; border-style: solid; border-width: 1px 2px 2px 1px; -moz-box-shadow: css_filter_moldurapagina_box_shadow; -webkit-box-shadow: css_filter_moldurapagina_box_shadow; box-shadow: css_filter_moldurapagina_box_shadow }
+.scFilterACTitle { background-color: #FFE88F; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #EFD052; border-width: 0; color: #000000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; text-shadow: 20px; padding: 2px 4px; text-decoration: none }
+.ac_results { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #fff; box-shadow: 0px 25px 25px -21px; border-style: solid; border-width: 0; color: #000000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; overflow: hidden; padding: 0; text-decoration: css_ajaxac_linha_par_text_decoration; z-index: 99999 }
+.ac_results ul { list-style: none; list-style-position: outside; margin: 0; padding: 0; width: 100% }
+.ac_results li { cursor: default; display: block; margin: 0; overflow: hidden; padding: 2px 5px; line-height: 16px }
+.ac_odd { background-color: #FCF6C5; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Verdana, Geneva, sans-serif; font-size: 12px }
+.ac_over { background-color: #FFED6F; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Verdana, Geneva, sans-serif; font-size: 12px }
+.scFilterPopup { border-collapse: collapse; display: none; position: absolute; z-index: 50 }
+.scFilterPopupCorner { height: 15px; width: 19px }
+.scFilterPopupTopLeft { background-image: url(../../img/scriptcase__NM__help_topLeftCorner.png); padding: 0 }
+.scFilterPopupTop { background-image: url(../../img/scriptcase__NM__help_topLine.png); padding: 0 }
+.scFilterPopupTopRight { background-image: url(../../img/scriptcase__NM__help_topRightCorner.png); padding: 0 }
+.scFilterPopupLeft { background-image: url(../../img/scriptcase__NM__help_leftColumn.png); padding: 0 }
+.scFilterPopupRight { background-image: url(../../img/scriptcase__NM__help_rightColumn.png); padding: 0 }
+.scFilterPopupBottomLeft { background-image: url(../../img/scriptcase__NM__help_bottomLeftCorner.png); padding: 0 }
+.scFilterPopupBottom { background-image: url(../../img/scriptcase__NM__help_bottomLine.png); padding: 0; text-align: center }
+.scFilterPopupBottom img { display: block; margin: 0 auto }
+.scFilterPopupBottomRight { background-image: url(../../img/scriptcase__NM__help_bottomRightCorner.png); padding: 0 }
+.scFilterPopupContent { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Verdana, Geneva, sans-serif; font-size: 12px; text-shadow: 12px; font-style: normal; text-decoration: none }
+.scFilterRequiredOdd { color: #E69200; font-family: Arial; font-size: 12px; text-shadow: 16px }
+.scFilterRequiredEven { color: #E69200; font-family: Arial; font-size: 12px; text-shadow: 16px }
+.scBtnPassField { margin: 5px 2px }

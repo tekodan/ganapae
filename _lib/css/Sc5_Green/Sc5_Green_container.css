@@ -1,0 +1,11 @@
+.scContainerPage { background-color: #ECF6D2; background-image: url(../../img/scriptcase__NM__bgV5GreenPage.png); background-repeat: repeat-x; opacity: 1; filter: alpha(opacity=100) }
+.scContainerHeader { background-color: #9FD41D; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scContainerHeaderFont { color: #FFFFFF; font-family: Arial; font-size: 14px; font-weight: bold; text-decoration: none }
+.scContainerFooter { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scContainerFooterFont { color: #999999; font-family: Arial, sans-serif; font-size: 11px; font-weight: bold; text-decoration: none }
+.scContainerWidget { background-color: #9FD41D; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #648C03; border-style: solid; border-width: 1px; margin: 10px 5px }
+.scContainerMaximized { background-color: #9FD41D; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #648C03; border-style: solid; border-width: 1px }
+.scContainerTitle { color: #FFFFFF; font-family: Arial; font-size: 12px; text-shadow: 20px; padding: 1px;px Height:20px; text-decoration: none }
+.widget-placeholder { border-color: #AAAAAA; border-style: dashed; border-width: 2px; margin: 10px 5px; -moz-border-radius: dotted; -webkit-border-radius: dotted; border-radius: dotted }
+.widget-head a.remove { background-image: url(../../img/scriptcase__NM__widget_buttons.gif); background-repeat: no-repeat; background-position: -24px }
+.widget-head a.collapse { background-image: url(../../img/scriptcase__NM__widget_buttons.gif); background-repeat: no-repeat; background-position: -52px }

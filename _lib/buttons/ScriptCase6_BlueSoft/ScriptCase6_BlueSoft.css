@@ -1,0 +1,8 @@
+.scButton_default { font-family: Arial, sans-serif; font-size: 11px; color: #fff; font-weight: bold; border-color: #2f5bb7; border-style: solid; border-width: 1px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; padding: 5px 12px; cursor: pointer; background-image: url(../../img/scriptcase__NM__bg_btn_bluesoft.png);text-decoration: none;  }
+.scButton_disabled { font-family: Arial, sans-serif; font-size: 11px; color: #92BBFF; font-weight: bold; background-color: #F1F6FF; border-color: #D1E2FF; border-style: solid; border-width: 1px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; padding: 3px 14px; cursor: pointer; background-image: none;text-decoration: none;  }
+.scButton_default:hover { font-family: Arial, sans-serif; font-size: 11px; color: #fff; font-weight: bold; background-color: #387cea; border-color: #2f5bb7; border-style: solid; border-width: 1px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; cursor: pointer; background-image: none;text-decoration: none;  }
+.scButton_default:active { font-family: Arial, sans-serif; font-size: 11px; color: #666666; font-weight: bold; background-color: #FFFFFF; border-color: #3079ED; border-style: solid; border-width: 1px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; cursor: pointer; background-image: none;text-decoration: none;  }
+.scLink_default { text-decoration: underline; font-size: 12px; color: #0000AA;  }
+.scLink_default:visited { text-decoration: underline; font-size: 12px; color: #0000AA;  }
+.scLink_default:active { text-decoration: underline; font-size: 12px; color: #0000AA;  }
+.scLink_default:hover { text-decoration: none; font-size: 12px; color: #0000AA;  }

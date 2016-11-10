@@ -1,0 +1,96 @@
+.css_subcategoria_label { }
+.css_subcategoria_line { }
+.css_subcategoria_obj { }
+.css_categoria_label { }
+.css_categoria_line { }
+.css_categoria_obj { }
+.css_latitud_label { }
+.css_latitud_line { }
+.css_latitud_obj { }
+.css_longitud_label { }
+.css_longitud_line { }
+.css_longitud_obj { }
+.css_estado_label { }
+.css_estado_line { }
+.css_estado_obj { }
+.css_idalerta_label { }
+.css_idalerta_line { }
+.css_idalerta_obj { }
+.css_geo_label { }
+.css_geo_line { }
+.css_geo_obj { }
+.css_correo_label { }
+.css_correo_line { }
+.css_correo_obj { }
+.css_nombre_label { }
+.css_nombre_line { }
+.css_nombre_obj { }
+.css_celular_label { }
+.css_celular_line { }
+.css_celular_obj { }
+.css_direccion_label { }
+.css_direccion_line { }
+.css_direccion_obj { }
+.css_alerta_label { }
+.css_alerta_line { }
+.css_alerta_obj {height:300px;}
+.css_rutavideo_label { }
+.css_rutavideo_line { }
+.css_rutavideo_obj { }
+.css_rutaaudio_label { }
+.css_rutaaudio_line { }
+.css_rutaaudio_obj { }
+.css_rutaimagen_label {text-align:center;width:200px;height:200px;}
+.css_rutaimagen_line {text-align:center;width:200px;height:200px;}
+.css_rutaimagen_obj {text-align:center;width:200px;height:200px;}
+.css_canal_label { }
+.css_canal_line { }
+.css_canal_obj { }
+.css_radicado_label { }
+.css_radicado_line { }
+.css_radicado_obj { }
+.css_origenalerta_label { }
+.css_origenalerta_line { }
+.css_origenalerta_obj { }
+.css_departamento_label { }
+.css_departamento_line { }
+.css_departamento_obj { }
+.css_municipio_label { }
+.css_municipio_line { }
+.css_municipio_obj { }
+.css_lugar_label { }
+.css_lugar_line { }
+.css_lugar_obj { }
+.css_fecha_label { }
+.css_fecha_line { }
+.css_fecha_obj { }
+.css_escalar_label {font-weight:bold;text-align:center;vertical-align:middle;}
+.css_escalar_line {font-weight:bold;text-align:center;vertical-align:middle;}
+.css_escalar_obj {text-align:center;}
+.css_motivo_label { }
+.css_motivo_line {height:100px;}
+.css_motivo_obj {height:100px;}
+.css_terminado_label { }
+.css_terminado_line {text-align:left;}
+.css_terminado_obj {text-align:left;}
+.css_fecharechazada_label { }
+.css_fecharechazada_line { }
+.css_fecharechazada_obj { }
+.css_fechaenatencion_label { }
+.css_fechaenatencion_line { }
+.css_fechaenatencion_obj { }
+.css_fechafinalizada_label { }
+.css_fechafinalizada_line { }
+.css_fechafinalizada_obj { }
+.css_aprobada_label {color:#0099FF;font-weight:bold;text-align:center;vertical-align:middle;}
+.css_aprobada_line {text-align:center;vertical-align:middle;}
+.css_aprobada_obj {text-align:center;}
+.css_audio_label { }
+.css_audio_line { }
+.css_audio_obj { }
+.css_geocode_label { }
+.css_geocode_line { }
+.css_geocode_obj { }
+.css_noaprobada_label {color:#FF6600;font-weight:bold;text-align:center;vertical-align:middle;}
+.css_noaprobada_line {text-align:center;vertical-align:middle;}
+.css_noaprobada_obj { }

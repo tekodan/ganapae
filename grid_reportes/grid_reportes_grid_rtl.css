@@ -1,0 +1,22 @@
+.css_fecha_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_lugar_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_lugar_grid_line {vertical-align: top;text-align: right;}
+.css_municipio_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_municipio_grid_line {vertical-align: top;text-align: right;}
+.css_terminado_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_terminado_grid_line {vertical-align: top;text-align: right;}
+.css_escalar_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_escalar_grid_line {vertical-align: top;text-align: right;}
+.css_categoria_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_categoria_grid_line {vertical-align: top;text-align: right;}
+.css_subcategoria_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_subcategoria_grid_line {vertical-align: top;text-align: right;}
+.css_latitud_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_latitud_grid_line {vertical-align: top;text-align: right;}
+.css_longitud_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_longitud_grid_line {vertical-align: top;text-align: right;}
+.css_estado_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_estado_grid_line {vertical-align: top;text-align: right;}
+.css_idalerta_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_idalerta_grid_line {vertical-align: top;text-align: right;}

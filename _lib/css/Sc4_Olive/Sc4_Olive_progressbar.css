@@ -1,0 +1,2 @@
+.scProgressBarStart { background-color: #dfdfdf; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-style: solid; border-width: 0 }
+.scProgressBarLoading { background-color: #B8C692; background-image: url(../../img/scriptcase__NM__bgToolBar2.png); opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #797979; border-style: solid; border-width: 1px }

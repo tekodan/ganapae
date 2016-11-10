@@ -1,0 +1,7 @@
+index.php
+alert
+cargar_alertas
+NAO
+blank
+cargar_alertas
+LigMd5

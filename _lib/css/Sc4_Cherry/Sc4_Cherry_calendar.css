@@ -1,0 +1,16 @@
+.scCalendarPage { background-color: #F7E0E0; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scCalendarBorder { background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scCalendarBorderPadding { padding: 2px }
+.scCalendarToolbar { background-color: #fcf6f6; background-image: url(../../img/scriptcase__NM__CherrybgToolBar.gif); opacity: 1; filter: alpha(opacity=100) }
+.scCalendarToolbarPadding { padding: 2px }
+.scCalendarInput { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #EF575A; border-style: solid; border-width: 1px; color: #d63a3d; font-family: Arial; font-size: 11px; font-style: normal; text-decoration: none }
+.scCalendarTabela { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #EF575A; border-style: solid; border-width: 1px }
+.scCalendarWeekday { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #00; font-family: Arial, sans-serif; font-size: 12px; font-style: normal; padding: 2px; text-decoration: none; vertical-align: middle }
+.scCalendarMonthday { background-color: #FFE3E3; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #942E06; font-family: Arial, sans-serif; font-size: 12px; font-style: normal; padding: 4px; text-decoration: none }
+.scCalendarMonthdayFont { color: #942E06; font-family: Arial, sans-serif; font-size: 12px; font-style: normal; text-decoration: none }
+.scCalendarSelectedday { background-color: #EF575A; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #fdf9e8; font-family: Arial, sans-serif; font-size: 12px; font-style: normal; padding: 2px; text-decoration: none; vertical-align: middle }
+.ui-datepicker-trigger { vertical-align: middle; margin: 2px }
+.ui-datepicker { display: none }
+.ui-datepicker .ui-datepicker-header { background-color: #fcf6f6; background-image: url(../../img/scriptcase__NM__CherrybgToolBar.gif); opacity: 1; filter: alpha(opacity=100); padding: 0 }
+.ui-datepicker .ui-state-default { background-color: #FFE3E3; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #942E06; font-family: Arial, sans-serif; font-size: 12px; font-style: normal; text-align: center; text-decoration: none }
+.ui-datepicker .ui-state-active { background-color: #EF575A; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #fdf9e8; font-family: Arial, sans-serif; font-size: 12px; font-style: normal; text-align: center; text-decoration: none; vertical-align: middle }

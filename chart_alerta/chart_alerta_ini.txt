@@ -1,0 +1,7 @@
+index.php
+alert
+chart_alerta
+NAO
+cons
+chart_alerta
+LigMd5

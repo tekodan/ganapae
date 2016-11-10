@@ -1,0 +1,88 @@
+.scFormPage { background-color: #111111; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #cccccc; font-family: Arial, sans-serif; font-size: 12px; margin: 20px 0 20px 0; text-decoration: none }
+.scFormBorder { background-color: #333333; background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 0; margin: css_form_moldura_margin; border-color: #666666; border-style: solid; border-width: 1px; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px }
+.scFormPageText { color: #cccccc; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormHeader { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #666666; border-style: solid; border-width: 0 }
+.scFormHeaderFont { color: #cccccc; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormFooter { background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scFormFooterFont { color: #cccccc; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormToolbarNav { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #cccccc; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; text-decoration: none; padding: 2px 4px 2px 4px }
+.scFormToolbarNavOpen { background-color: #404040; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #cccccc; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; font-weight: bold; text-decoration: none; border-color: #666666; border-style: solid; border-width: 1px; padding: 2px 4px 2px 4px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px }
+.scFormToolbar { background-color: #333333; background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 5px 10px 5px 10px; border-style: none; border-width: 0 }
+.scFormToolbarPadding { padding: 5px 10px 5px 10px }
+.scFormToolbarInput { background-color: #444; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #333; border-style: solid; border-width: 1px; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; padding: 2px 4px; text-decoration: none }
+.scFormToolbarInputWm { color: #D4CACA }
+.scFormTable { background-color: #222222; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #333333; border-style: solid; border-width: 1px }
+.scFormTableTd { padding: 0 }
+.scFormLabelLink { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; vertical-align: top; }
+.scFormLabelOdd { background-color: #333333; background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 0; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 4px 4px 4px 10px; text-decoration: none; vertical-align: top; }
+.scFormLabelOddMult { background-image: url(../../img/scriptcase__NM__v7LabelBlack.png); border-color: #222222; border-style: solid; border-width: 1px; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 2px 4px; text-decoration: none; vertical-align: top; }
+.scFormLabelOddFormat { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormLabelOddFormatMult { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormRequiredOdd { color: #F1ca62; font-family: Arial; font-size: 12px; font-weight: bold }
+.scFormRequiredOddMult { color: #F1ca62; font-family: Arial; font-size: 12px; font-weight: bold }
+.scFormRequiredOddColor { color: #F1ca62; font-family: Arial; font-size: 12px; font-weight: bold }
+.scFormRequiredOddColorMult { color: #F1ca62; font-family: Arial; font-size: 12px; font-weight: bold }
+.scFormObjectOdd { background-color: #444444; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #282828; border-style: solid; border-width: 1px; color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; padding: 2px; text-decoration: none }
+.scFormObjectOddMult { background-color: #444444; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #282828; border-style: solid; border-width: 1px; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; padding: 2px; text-decoration: none }
+.scFormObjectFocusOdd { background-color: #FFFFD9; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #282828; border-style: solid; border-width: 1px; color: #000000; font-family: Arial, sans-serif; font-size: 12px; padding: 2px; text-decoration: none }
+.scFormObjectFocusOddMult { background-color: #FFFFD9; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #282828; border-style: solid; border-width: 1px; color: #000000; font-family: Arial, sans-serif; font-size: 12px; padding: 2px; text-decoration: none }
+.scFormDataOdd { background-color: #333333; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; padding: 4px 4px 4px 10px; text-decoration: none }
+.scFormDataOddMult { background-color: #252525; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 0; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; padding: 4px; text-decoration: none }
+.scFormDataFontOdd { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormDataFontOddMult { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormLinkOdd { color: #FFFFFF; text-decoration: underline }
+.scFormLinkOddMult { color: #FFFFFF; text-decoration: underline }
+.scFormLabelLinkOdd { text-decoration: none }
+.scFormLabelLinkOddMult { color: #FFF; text-decoration: none }
+.scFormInputError { background-color: #ffaaaa; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000 }
+.scFormInputErrorMult { background-color: #ffaaaa; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000 }
+.scFormInputDisabled { background-color: #CCCCCC; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000 }
+.scFormInputDisabledMult { background-color: #CCCCCC; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000 }
+.scFormDataDragNDrop { background-color: #404040; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #666666; border-style: dashed; border-width: 1px; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 13px; padding: 25px; text-decoration: none; margin: 15px 4px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px }
+.scFormMessageTable { background-color: #F9EDBB; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #DCC593; border-style: solid; border-width: 1px; height: 40px; width: 280px }
+.scFormMessageTitle { background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 0; color: #000000; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 3px; text-decoration: none }
+.scFormMessageTitleFont { color: #000000; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormMessageMessage { background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 0; color: #333; font-family: Arial, sans-serif; font-size: 12px; padding: 3px; text-decoration: none }
+.scFormMessageMessageFont { color: #333; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormErrorTable { background-color: #F9EDBB; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #DCC593; border-style: solid; border-width: 1px; height: 30px; width: 320px }
+.scFormErrorTitle { background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: none; color: #000000; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 5px 3px 1px 3px; text-decoration: none; vertical-align: middle }
+.scFormErrorTitleFont { color: #000000; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormErrorMessage { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333; font-family: Arial, sans-serif; font-size: 12px; padding: 1px 3px 5px 3px; text-decoration: none }
+.scFormErrorMessageFont { color: #333; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormErrorLine { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 12px; padding: 4px 4px 4px 10px; letter-spacing: 0px; text-decoration: none }
+.scFormFieldErrorTable { background-color: #F9EDBB; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #DCC593; border-style: solid; border-width: 1px; -moz-border-radius: css_fielderror_radius; -webkit-border-radius: css_fielderror_radius; border-radius: css_fielderror_radius }
+.scFormFieldErrorMessage { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 12px; padding: 2px 4px 2px 4px; text-decoration: none; vertical-align: middle }
+.scFormBlock { background-image: url(../../img/scriptcase__NM__v7LabelBlack.png); opacity: 1; filter: alpha(opacity=100); border-color: #d2d2d2; border-style: solid; border-width: 0; color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 1px 1px 1px 6px; text-decoration: none; vertical-align: middle }
+.scFormBlockFont { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormBlockAlign { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; vertical-align: middle }
+.scFormProcess { color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 20px; font-weight: bold; text-decoration: none }
+.scFormProcessFixed { background-color: #fff; border-color: #222222; border-style: solid; border-width: 1px; height: 26px; padding-top: 13px; position: absolute; text-align: center; width: 350px }
+.scFormHelpPage { background-color: #F9EDBB; background-image: none; background-repeat: repeat-x; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; text-decoration: none }
+.scFormPopup { border-collapse: collapse; display: none; position: absolute; z-index: 50 }
+.scFormPopupCorner { height: 15px; width: 19px }
+.scFormPopupTopLeft { background-image: url(../../img/scriptcase__NM__help_topLeftCorner.png); padding: 0 }
+.scFormPopupTop { background-image: url(../../img/scriptcase__NM__help_topLine.png); padding: 0 }
+.scFormPopupTopRight { background-image: url(../../img/scriptcase__NM__help_topRightCorner.png); padding: 0 }
+.scFormPopupLeft { background-image: url(../../img/scriptcase__NM__help_leftColumn.png); padding: 0 }
+.scFormPopupRight { background-image: url(../../img/scriptcase__NM__help_rightColumn.png); padding: 0 }
+.scFormPopupBottomLeft { background-image: url(../../img/scriptcase__NM__help_bottomLeftCorner.png); padding: 0 }
+.scFormPopupBottom { background-image: url(../../img/scriptcase__NM__help_bottomLine.png); padding: 0; text-align: center }
+.scFormPopupBottom img { display: block; margin: 0 auto }
+.scFormPopupBottomRight { background-image: url(../../img/scriptcase__NM__help_bottomRightCorner.png); padding: 0 }
+.scFormPopupContent { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; font-style: normal; text-decoration: none }
+.scButtonMultiUploadSend { float: left }
+.scButtonMultiUploadSend:hover { cursor: pointer }
+.TB_overlayBG { background-color: #6e6e6e }
+#TB_window { border-color: #222222; border-style: solid; border-width: 1px }
+.scFormACTable { border-collapse: collapse; border-color: #BBBBBB #A4ADC2 #A4ADC2 #BBBBBB; border-style: solid; border-width: 1px 2px 2px 1px }
+.scFormACTitle { background-color: #f5f5f5; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #AAA #AAA #777777 #AAA; border-width: 1px; color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 20px; padding: 2px 4px; text-decoration: none }
+.ac_results { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #D2D2D2; border-style: solid; border-width: 1px; color: #000000; font-family: Arial, sans-serif; font-size: 12px; overflow: hidden; padding: 0; text-decoration: css_ajaxac_linha_par_text_decoration; z-index: 99999 }
+.ac_results ul { list-style: none; list-style-position: outside; margin: 0; padding: 0; width: 100% }
+.ac_results li { cursor: default; display: block; margin: 0; overflow: hidden; padding: 2px 5px; line-height: 16px }
+.ac_odd { background-color: #EAEDF2; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 12px }
+.ac_over { background-color: #F0EEEE; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 12px }
+.ui-dropdownchecklist-text { color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.ui-dropdownchecklist-selector { background-color: #444444; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #ffffff; font-family: Arial, sans-serif; font-size: 12px }
+.ui-dropdownchecklist-dropcontainer { background-color: #444444; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #ffffff; font-family: Arial, sans-serif; font-size: 12px }
+.scBtnPassField { margin: 5px 2px }
+.scAjaxDiv { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 20px; text-decoration: none; border-collapse: collapse; border-style: none }

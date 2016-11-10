@@ -1,0 +1,87 @@
+.scFormPage { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormBorder { background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 3px; margin: css_form_moldura_margin }
+.scFormPageText { color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormHeader { background-color: #EF575A; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scFormHeaderFont { color: #FFFFFF; font-family: Arial, Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormFooter { background-color: #EF575A; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scFormFooterFont { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormToolbarNav { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; text-decoration: none; padding: 2px 4px 2px 4px }
+.scFormToolbarNavOpen { background-color: #F3898C; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #fff; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; font-weight: bold; text-decoration: none; border-color: #F3898C; border-style: solid; border-width: 1px; padding: 2px 4px 2px 4px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px }
+.scFormToolbar { background-color: #fcf6f6; background-image: url(../../img/scriptcase__NM__CherrybgToolBar.gif); opacity: 1; filter: alpha(opacity=100); padding: 2px }
+.scFormToolbarPadding { padding: 2px }
+.scFormToolbarInput { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #EF575A; border-style: solid; border-width: 1px; color: #d63a3d; font-family: Arial; font-size: 11px; text-decoration: none }
+.scFormTable { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #EF575A; border-style: solid; border-width: 1px }
+.scFormTableTd { padding: 3px }
+.scFormLabelLink { color: #fdf9e8; font-family: Arial; font-size: 12px; font-weight: bold; text-decoration: none; vertical-align: top; }
+.scFormLabelOdd { background-color: #FFE3E3; background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 0; color: #942E06; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 4px; text-decoration: none; vertical-align: top; }
+.scFormLabelOddMult { background-color: #F3898C; background-image: none; color: #fdf9e8; font-family: Arial; font-size: 12px; font-weight: bold; text-decoration: none; vertical-align: top; }
+.scFormLabelOddFormat { color: #942E06; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormLabelOddFormatMult { color: #fdf9e8; font-family: Arial; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormRequiredOdd { color: #FF0000; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold }
+.scFormRequiredOddMult { color: #FF0000; font-family: Arial, sans-serif; font-size: 12px }
+.scFormRequiredOddColor { color: #FF0000; font-family: Arial, sans-serif; font-size: 12px }
+.scFormRequiredOddColorMult { color: #FF0000; font-family: Arial, sans-serif; font-size: 12px }
+.scFormObjectOdd { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #EF575A; border-style: solid; border-width: 1px; color: #333333; font-family: Arial, sans-serif; font-size: 11px; text-decoration: none }
+.scFormObjectOddMult { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #EF575A; border-style: solid; border-width: 1px; color: #333333; font-family: Arial; font-size: 11px; text-decoration: none }
+.scFormObjectFocusOdd { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #EF575A; border-style: solid; border-width: 1px; color: #333333; font-family: Arial, sans-serif; font-size: 11px; text-decoration: none }
+.scFormObjectFocusOddMult { background-color: #FFFFBC; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #EF575A; border-style: solid; border-width: 1px; font-family: Arial; font-size: 11px; text-decoration: none }
+.scFormDataOdd { background-color: #ffffff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 0; color: #942E06; font-family: Arial, sans-serif; font-size: 12px; padding: 4px; text-decoration: none }
+.scFormDataOddMult { background-color: #FFE3E3; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333333; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormDataFontOdd { color: #942E06; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormDataFontOddMult { color: #333333; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormLinkOdd { color: #942E06; text-decoration: underline }
+.scFormLinkOddMult { color: #333333; text-decoration: underline }
+.scFormLabelLinkOdd { text-decoration: none }
+.scFormLabelLinkOddMult { color: #fdf9e8; text-decoration: none }
+.scFormInputError { background-color: #ffaaaa; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scFormInputErrorMult { background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scFormInputDisabled { background-color: #CCCCCC; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scFormInputDisabledMult { background-color: #CCCCCC; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scFormDataDragNDrop { background-color: #FFE3E3; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #EF575A; border-style: dashed; border-width: 1px; color: #942E06; font-family: Arial, sans-serif; font-size: 13px; padding: 25px; text-decoration: none; margin: 15px 4px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px }
+.scFormMessageTable { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #EF575A; border-style: solid; border-width: 1px; height: 40px; width: 280px }
+.scFormMessageTitle { background-color: #EF575A; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #fdf9e8; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 2px; letter-spacing: 2px; text-decoration: none; vertical-align: middle }
+.scFormMessageTitleFont { color: #fdf9e8; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormMessageMessage { background-color: #FFE3E3; background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 0; color: #942E06; font-family: Arial, sans-serif; font-size: 12px; padding: 4px; text-decoration: none }
+.scFormMessageMessageFont { color: #942E06; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scFormErrorTable { background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scFormErrorTitle { background-color: #d8a657; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #FF0000; border-style: solid; border-width: 1px; color: #fdf9e8; font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; padding: 2px; text-decoration: none }
+.scFormErrorTitleFont { color: #fdf9e8; font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }
+.scFormErrorMessage { background-color: #f4d277; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #f9d39c; border-style: solid; border-width: 1px; color: #990000; font-family: Arial, Arial, sans-serif; font-size: 11px; padding: 2px; text-decoration: none }
+.scFormErrorMessageFont { color: #990000; font-family: Arial, Arial, sans-serif; font-size: 11px; text-decoration: none }
+.scFormErrorLine { background-color: #d8a657; background-image: none; opacity: 1; filter: alpha(opacity=100); text-decoration: none }
+.scFormFieldErrorTable { background-image: none; opacity: 1; filter: alpha(opacity=100); -moz-border-radius: css_fielderror_radius; -webkit-border-radius: css_fielderror_radius; border-radius: css_fielderror_radius }
+.scFormFieldErrorMessage { background-color: #f4d277; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #990000; font-family: Arial, Arial, sans-serif; font-size: 11px; padding: 2px; text-decoration: none }
+.scFormBlock { background-color: #EF575A; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #fdf9e8; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 2px; text-decoration: none; vertical-align: middle }
+.scFormBlockFont { color: #fdf9e8; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scFormBlockAlign { color: #fdf9e8; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none; vertical-align: middle }
+.scFormProcess { color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 20px; font-weight: bold; text-decoration: none }
+.scFormProcessFixed { background-color: #fff; border-color: #dfdfdf; border-style: inset; border-width: 2px 2px 3px 2px; height: 26px; padding-top: 13px; position: absolute; text-align: center; width: 350px }
+.scFormHelpPage { background-color: #ECF6D2; background-image: none; background-repeat: repeat-x; opacity: 0.81; filter: alpha(opacity=81); color: #333333; font-family: Arial, sans; font-size: 12px; text-shadow: 12px; text-decoration: none }
+.scFormPopup { border-collapse: collapse; display: none; position: absolute; z-index: 50 }
+.scFormPopupCorner { height: 15px; width: 19px }
+.scFormPopupTopLeft { background-image: url(../../img/scriptcase__NM__help_topLeftCorner.png); padding: 0 }
+.scFormPopupTop { background-image: url(../../img/scriptcase__NM__help_topLine.png); padding: 0 }
+.scFormPopupTopRight { background-image: url(../../img/scriptcase__NM__help_topRightCorner.png); padding: 0 }
+.scFormPopupLeft { background-image: url(../../img/scriptcase__NM__help_leftColumn.png); padding: 0 }
+.scFormPopupRight { background-image: url(../../img/scriptcase__NM__help_rightColumn.png); padding: 0 }
+.scFormPopupBottomLeft { background-image: url(../../img/scriptcase__NM__help_bottomLeftCorner.png); padding: 0 }
+.scFormPopupBottom { background-image: url(../../img/scriptcase__NM__help_bottomLine.png); padding: 0; text-align: center }
+.scFormPopupBottom img { display: block; margin: 0 auto }
+.scFormPopupBottomRight { background-image: url(../../img/scriptcase__NM__help_bottomRightCorner.png); padding: 0 }
+.scFormPopupContent { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 12px; font-style: normal; text-decoration: none }
+.scButtonMultiUploadSend { float: left }
+.scButtonMultiUploadSend:hover { cursor: pointer }
+.TB_overlayBG { background-color: #6e6e6e }
+#TB_window { border-color: #dfdfdf; border-style: inset; border-width: 2px 2px 3px 2px }
+.scFormACTable { border-collapse: collapse; border-color: #000000; border-style: outset; border-width: 1px }
+.scFormACTitle { background-color: #EF575A; background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: solid; border-width: 0; color: #fdf9e8; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 20px; padding: 4px; text-decoration: none }
+.ac_results { background-color: #FFE3E3; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #000000; border-style: outset; border-width: 1px; color: #942E06; font-family: Arial, sans-serif; font-size: 12px; overflow: hidden; padding: 0; text-decoration: css_ajaxac_linha_par_text_decoration; z-index: 99999; -moz-border-radius: outset; -webkit-border-radius: outset; border-radius: outset }
+.ac_results ul { list-style: none; list-style-position: outside; margin: 0; padding: 0; width: 100% }
+.ac_results li { cursor: default; display: block; margin: 0; overflow: hidden; padding: 2px 5px; line-height: 16px }
+.ac_odd { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #942E06; font-family: Arial, sans-serif; font-size: 12px }
+.ac_over { background-color: #f7ca89; background-image: none; opacity: 1; filter: alpha(opacity=100); font-family: Arial, sans-serif; font-size: 12px }
+.ui-dropdownchecklist-text { color: #333333; font-family: Arial, sans-serif; font-size: 11px; text-decoration: none }
+.ui-dropdownchecklist-selector { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333333; font-family: Arial, sans-serif; font-size: 11px }
+.ui-dropdownchecklist-dropcontainer { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333333; font-family: Arial, sans-serif; font-size: 11px }
+.scBtnPassField { margin: 5px 2px }
+.scAjaxDiv { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000000; font-family: Arial, sans-serif; font-size: 12px; text-shadow: 20px; text-decoration: none; border-collapse: collapse; border-style: none; padding: 15px 0 0 0 }

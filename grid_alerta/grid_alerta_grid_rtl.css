@@ -1,0 +1,28 @@
+.css_idalerta_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_idalerta_grid_line {vertical-align: top;text-align: right;}
+.css_semaforo_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_semaforo_grid_line {text-align: right;}
+.css_alerta_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_alerta_grid_line {vertical-align: top;text-align: right;}
+.css_rutaimagen_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_rutaimagen_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_municipio_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_municipio_grid_line {vertical-align: top;text-align: right;}
+.css_alert_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_alert_grid_line {text-align: center;}
+.css_state_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_state_grid_line {text-align: center;}
+.css_audio_label {text-align:;vertical-align:middle;font-weight:bold;}
+.css_audio_grid_line {text-align: right;}
+.css_latitud_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_latitud_grid_line {vertical-align: top;text-align: right;}
+.css_longitud_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_longitud_grid_line {vertical-align: top;text-align: right;}
+.css_estado_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_estado_grid_line {vertical-align: top;text-align: right;}
+.css_geo_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_geo_grid_line {vertical-align: top;text-align: right;}
+.css_correo_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_correo_grid_line {vertical-align: top;text-align: right;}

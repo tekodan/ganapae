@@ -1,0 +1,12 @@
+.scTabPage { background-color: #FFFFFF; background-image: url(../../img/scriptcase__NM__bgmiolo.gif); opacity: 1; filter: alpha(opacity=100) }
+.scTabTable { background-color: #e9f2f5; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #e0e4e4; border-style: solid; border-width: 1px }
+.scTabTableApls { border-color: #658cb1 #658cb1 #658cb1#658cb1; border-style: solid; border-width: 1px 0 0 0 }
+.scTabLine { background-image: none; opacity: 1; filter: alpha(opacity=100); width: 100%; margin: 0; padding: 10px 0 0; list-style-type: none }
+.scTabHeader { background-color: #8BA3B9; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scTabHeaderFont { color: #000000; font-family: Arial, Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scTabActive { list-style: none; top: 0; background-color: #91adc7; background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 1px 1px 0 1px; border-color: #817F80; border-style: solid; border-collapse: collapse; padding: 4px 15px; margin: 2px 1px 0 1px; height: 18px; min-height: 18; -moz-border-radius: 6px 6px 0 0; -webkit-border-radius: 6px 6px 0 0; border-radius: 6px 6px 0 0; display: inline-block }
+.scTabActive a { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none; font-style: normal }
+.scTabInactive { list-style: none; top: 0; background-color: #D4DFE9; background-image: none; opacity: 1; filter: alpha(opacity=100); border-width: 1px; border-color: #ccc; border-style: solid; border-collapse: collapse; padding: 4px 15px; margin: 2px 1px 0 1px; height: 18px; min-height: 18; -moz-border-radius: 6px 6px 0 0; -webkit-border-radius: 6px 6px 0 0; border-radius: 6px 6px 0 0; display: inline-block }
+.scTabInactive a { color: #82A6C7; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none; font-style: normal }
+.scTabActiveLink, .scTabActiveLink a { color: #8BA3B9; font-family: Arial, sans-serif; font-size: 12px; font-style: normal; text-decoration: underline; padding: 2px; margin: 2px; display: inline }
+.scTabInactiveLink, .scTabInactiveLink a { color: #333333; font-family: Arial, Arial, sans-serif; font-size: 12px; font-style: normal; text-decoration: none; padding: 2px; margin: 2px; display: inline }

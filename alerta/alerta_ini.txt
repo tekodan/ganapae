@@ -1,0 +1,7 @@
+index.php
+alert
+alerta
+NAO
+
+alerta
+LigMd5

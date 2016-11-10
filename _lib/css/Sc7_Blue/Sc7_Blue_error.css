@@ -1,0 +1,6 @@
+.scErrorTable { background-color: #FFFE9C; background-image: url(../../img/scriptcase__NM__bgMensagemAlerta.png); background-repeat: repeat-x; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #e7e7e7; border-style: solid; border-width: 1px; height: 30px; width: 320px }
+.scErrorTitle { background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: none; color: #444444; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; padding: 5px 3px 1px 3px; text-decoration: none; vertical-align: middle }
+.scErrorTitleFont { color: #444444; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scErrorMessage { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #FF0000; border-style: none; border-width: 0; color: #cc0000; font-family: Arial, sans-serif; font-size: 12px; padding: 1px 3px 5px 3px; text-decoration: none }
+.scErrorMessageFont { color: #cc0000; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scErrorLine { background-color: #FFECE9; background-image: none; opacity: 1; filter: alpha(opacity=100); color: #cc0000; font-family: Arial, sans-serif; font-size: 12px; padding: 4px 4px 4px 10px; letter-spacing: 0px; text-decoration: none }
